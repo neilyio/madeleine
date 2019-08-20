@@ -105,6 +105,7 @@ mockdata/
 
 # vscode
 .vscode
+.vscode/
 
 # misc
 .DS_Store
